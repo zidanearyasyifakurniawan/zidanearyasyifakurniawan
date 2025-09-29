@@ -1,9 +1,3 @@
-## 🐍 Mainkan Snake di Profil Saya!
+## 🐍 Animasi Ular Kontribusi
 
-Klik link di bawah untuk bermain game snake:
-
-👉 [Mainkan Snake Game](https://zidanearyasyifakurniawan.github.io/snake-game/)
-
-Atau lihat preview di bawah:
-
-[![Snake Game Screenshot](https://raw.githubusercontent.com/zidanearyasyifakurniawan/snake-game/main/screenshot.png)](https://zidanearyasyifakurniawan.github.io/snake-game/)
+![snake gif](https://zidanearyasyifakurniawan.github.io/zidanearyasyifakurniawan/snake.svg)
